@@ -1,0 +1,108 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "fullName": "Pham Anh Thien",
+      "email": "thien.pham@dev.com",
+      "address": "Danang",
+      "role": "Frontend Developer",
+      "avatarSrc": null
+    },
+    {
+      "id": "2",
+      "fullName": "Ly Mac Sau",
+      "email": "sau.ly@yahoo.com",
+      "address": "Quangnam",
+      "role": "Quality Assurance",
+      "avatarSrc": "https://media.vov.vn/sites/default/files/styles/large/public/2023-08/b_0.jpg"
+    },
+    {
+      "id": "3",
+      "fullName": "Ha Anh Tuan",
+      "email": "thien.pham@dev.com",
+      "address": "Danang",
+      "role": "Backend Developer",
+      "avatarSrc": null
+    },
+    {
+      "id": "4",
+      "fullName": "Ly Mac Sau",
+      "email": "sau.ly@yahoo.com",
+      "address": "Quangnam",
+      "role": "Quality Assurance",
+      "avatarSrc": "https://media.vov.vn/sites/default/files/styles/large/public/2023-08/b_0.jpg"
+    },
+    {
+      "id": "5",
+      "fullName": "Pham Anh Thien",
+      "email": "thien.pham@dev.com",
+      "address": "Danang",
+      "role": "Full-stack Developer",
+      "avatarSrc": null
+    },
+    {
+      "id": "6",
+      "fullName": "Ly Mac Sau",
+      "email": "sau.ly@yahoo.com",
+      "address": "Quangnam",
+      "role": "Quality Assurance",
+      "avatarSrc": "https://media.vov.vn/sites/default/files/styles/large/public/2023-08/b_0.jpg"
+    },
+    {
+      "id": "7",
+      "fullName": "Pham Anh Thien",
+      "email": "thien.pham@dev.com",
+      "address": "Danang",
+      "role": "Frontend Developer",
+      "avatarSrc": null
+    },
+    {
+      "id": "8",
+      "fullName": "Ly Mac Sau",
+      "email": "sau.ly@yahoo.com",
+      "address": "Quangnam",
+      "role": "Quality Assurance",
+      "avatarSrc": "https://media.vov.vn/sites/default/files/styles/large/public/2023-08/b_0.jpg"
+    },
+    {
+      "id": "9",
+      "fullName": "Pham Anh Thien",
+      "email": "thien.pham@dev.com",
+      "address": "Danang",
+      "role": "Frontend Developer",
+      "avatarSrc": null
+    },
+    {
+      "id": "10",
+      "fullName": "Ly Mac Sau",
+      "email": "sau.ly@yahoo.com",
+      "address": "Quangnam",
+      "role": "Project Manager",
+      "avatarSrc": "https://media.vov.vn/sites/default/files/styles/large/public/2023-08/b_0.jpg"
+    },
+    {
+      "id": "11",
+      "fullName": "Pham Anh Thien",
+      "email": "thien.pham@dev.com",
+      "address": "Danang",
+      "role": "Frontend Developer",
+      "avatarSrc": null
+    },
+    {
+      "id": "12",
+      "fullName": "Ly Mac Sau",
+      "email": "sau.ly@yahoo.com",
+      "address": "Quangnam",
+      "role": "Quality Assurance",
+      "avatarSrc": "https://media.vov.vn/sites/default/files/styles/large/public/2023-08/b_0.jpg"
+    },
+    {
+      "id": "500",
+      "fullName": "Elon Mussk",
+      "email": "sau.ly@yahoo.com",
+      "address": "USA",
+      "role": "CEO",
+      "avatarSrc": "https://cdn-s-www.leprogres.fr/images/79ACF7C3-B0E5-4453-824F-7E86DE90230A/NW_raw/elon-musk-en-aout-2021-photo-patrick-pleul-dpa-picture-alliance-via-afp-1639434176.jpg"
+    }
+  ]
+}
